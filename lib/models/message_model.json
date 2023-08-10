@@ -1,0 +1,207 @@
+{
+    "chats": [
+      {
+        "sender": {
+          "name": "Iron Man",
+          "imageUrl": "assets/images/iron_man.jpg",
+          "isOnline": true,
+          "id": 1
+        },
+        "time": "5:30 PM",
+        "text": "Hey dude! Even dead I'm Iron Man.",
+        "unread": true
+      },
+      {
+        "sender": {
+          "name": "Captain America",
+          "imageUrl": "assets/images/captain_america.jpg",
+          "isOnline": true,
+          "id": 2
+        },
+        "time": "4:30 PM",
+        "text": "Hey, how's it going? What did you do today?",
+        "unread": true
+      },
+      {
+        "sender": {
+          "name": "Black Widow",
+          "imageUrl": "assets/images/black_widow.jpg",
+          "isOnline": true,
+          "id": 3
+        },
+        "time": "3:30 PM",
+        "text": "WOW! this soul world is amazing, but miss you guys.",
+        "unread": false
+      },
+      {
+        "sender": {
+          "name": "Spider-Man",
+          "imageUrl": "assets/images/spider_man.jpg",
+          "isOnline": true,
+          "id": 4
+        },
+        "time": "2:30 PM",
+        "text": "I'm exposed now. Please help me to hide my identity.",
+        "unread": true
+      },
+      {
+        "sender": {
+          "name": "Hulk",
+          "imageUrl": "assets/images/hulk.jpg",
+          "isOnline": true,
+          "id": 5
+        },
+        "time": "1:30 PM",
+        "text": "HULK SMASH!!",
+        "unread": false
+      },
+      {
+        "sender": {
+          "name": "Thor",
+          "imageUrl": "assets/images/thor.jpg",
+          "isOnline": true,
+          "id": 6
+        },
+        "time": "12:30 PM",
+        "text": "I'm hitting gym bro. I'm immune to mortal diseases. Are you coming?",
+        "unread": false
+      },
+      {
+        "sender": {
+          "name": "Scarlet Witch",
+          "imageUrl": "assets/images/scarlet_witch.jpg",
+          "isOnline": true,
+          "id": 7
+        },
+        "time": "11:30 AM",
+        "text": "My twins are giving me a headache. Give me some time, please.",
+        "unread": false
+      },
+      {
+        "sender": {
+          "name": "Captain Marvel",
+          "imageUrl": "assets/images/captain_marvel.jpg",
+          "isOnline": true,
+          "id": 8
+        },
+        "time": "12:45 AM",
+        "text": "You're always special to me Nick! But you know my struggle.",
+        "unread": false
+      }
+    ],
+    "messages": [
+      {
+        "sender": {
+          "name": "Iron Man",
+          "imageUrl": "assets/images/iron_man.jpg",
+          "isOnline": true,
+          "id": 1
+        },
+        "time": "5:30 PM",
+        "text": "Hey dude! Event dead I'm Iron Man.",
+        "unread": true
+      },
+      {
+        "sender": {
+          "name": "Current User",
+          "imageUrl": "assets/images/current_user.jpg",
+          "isOnline": true,
+          "id": 0
+        },
+        "time": "4:30 PM",
+        "text": "We could surely handle this mess much easily if you were here.",
+        "unread": true
+      },
+      {
+        "sender": {
+          "name": "Iron Man",
+          "imageUrl": "assets/images/iron_man.jpg",
+          "isOnline": true,
+          "id": 1
+        },
+        "time": "3:45 PM",
+        "text": "Take care of Peter. Give him all the protection & his aunt.",
+        "unread": true
+      },
+      {
+        "sender": {
+          "name": "Iron Man",
+          "imageUrl": "assets/images/iron_man.jpg",
+          "isOnline": true,
+          "id": 1
+        },
+        "time": "3:15 PM",
+        "text": "I'm always proud of her and blessed to have both of them.",
+        "unread": true
+      },
+      {
+        "sender": {
+          "name": "Current User",
+          "imageUrl": "assets/images/current_user.jpg",
+          "isOnline": true,
+          "id": 0
+        },
+        "time": "2:30 PM",
+        "text": "But that spider kid is having some difficulties due to his identity reveal by a blog called Daily Bugle.",
+        "unread": true
+      },
+      {
+        "sender": {
+          "name": "Current User",
+          "imageUrl": "assets/images/current_user.jpg",
+          "isOnline": true,
+          "id": 0
+        },
+        "time": "2:30 PM",
+        "text": "Pepper & Morgan are fine. They're strong like you. Morgan is a very brave girl; one day she'll make you proud.",
+        "unread": true
+      },
+      {
+        "sender": {
+          "name": "Current User",
+          "imageUrl": "assets/images/current_user.jpg",
+          "isOnline": true,
+          "id": 0
+        },
+        "time": "2:30 PM",
+        "text": "Yes, Tony!",
+        "unread": true
+      },
+      {
+        "sender": {
+          "name": "Iron Man",
+          "imageUrl": "assets/images/iron_man.jpg",
+          "isOnline": true,
+          "id": 1
+        },
+        "time": "2:00 PM",
+        "text": "I hope my family is doing well.",
+        "unread": true
+      }
+    ],
+    "requests": [
+      {
+        "sender": {
+          "name": "John Doe",
+          "imageUrl": "assets/images/user1.jpg",
+          "isOnline": true,
+          "id": 9
+        },
+        "time": "3:30 PM",
+        "text": "Hey, can you help me with something?",
+        "unread": true
+      },
+      {
+        "sender": {
+          "name": "Jane Smith",
+          "imageUrl": "assets/images/user2.jpg",
+          "isOnline": true,
+          "id": 10
+        },
+        "time": "1:45 PM",
+        "text": "Could you review this document for me?",
+        "unread": false
+      }
+    ]
+  }
+  
